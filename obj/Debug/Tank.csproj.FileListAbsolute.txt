@@ -1,0 +1,6 @@
+C:\Users\Mr.Steep\source\repos\Tank\bin\Debug\Tank.exe.config
+C:\Users\Mr.Steep\source\repos\Tank\bin\Debug\Tank.exe
+C:\Users\Mr.Steep\source\repos\Tank\bin\Debug\Tank.pdb
+C:\Users\Mr.Steep\source\repos\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+C:\Users\Mr.Steep\source\repos\Tank\obj\Debug\Tank.exe
+C:\Users\Mr.Steep\source\repos\Tank\obj\Debug\Tank.pdb
